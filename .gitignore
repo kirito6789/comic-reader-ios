@@ -1,0 +1,5 @@
+ComicReader.xcodeproj/
+Payload/
+build/
+*.ipa
+.DS_Store
